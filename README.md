@@ -19,8 +19,9 @@ Already comfortable with: Capybara, Shoulda, RSpec, Cucumber, Mocha, Chai, Jasmi
 
 Each line of code we create is a legacy! Not just within the product, but of our time on earth! I'd like to be known for creating clean, simple to read, easily extended, beautiful code - that can be used to deliver real world value.
 
-- I spent over 200 hours at Makers Academy bootcamp, pouring as much best practice into my code as possible whilst learning. Check out my repo here:
-- To keep the quality high we focussed on: TDD, RESTful practices, SOLID principles, OOD, XP principles such as pair programming, finding and using a style guide and continuous integration.
+- Keen to learn new languages, frameworks and tools. Technologies i'm already comfortable with are: Ruby, Javascript, HTML (HAML), CSS (SASS), jQuery, Unix, AWS, Heroku, Sinatra, Rails, Node.js, Express.js, Angular.js, PostgreSQL, MongoDB, Git, API development.  [See examples on my GitHub profile](https://github.com/DanBlakeman)
+- To keep the quality high I have focussed on: TDD, MVC, RESTful practices, SOLID principles, OOD, XP principles such as pair programming, version control and continuous integration.
+
 
 
 ### Agile
@@ -77,8 +78,11 @@ Part way through Makers Acadmey i was interviewed by NY based CourseReport.com: 
 
 ## Previous Roles
 
-New Media Specialist at KVH Media Group (06/2011 - 02/2015)
-Online Marketing Consultant at Vinceremos Organic Wines (03/2011 - 06/2011)
+### New Media Specialist at KVH Media Group
+#### 06/2011 - 02/2015
+---
+###Online Marketing Consultant at Vinceremos Organic Wines
+####03/2011 - 06/2011
 
 ## A little bit of personality:
 
