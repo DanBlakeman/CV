@@ -13,14 +13,14 @@ Described by friends as a 'TDD purist', i prefer each line of code to be tested 
 
 Already comfortable with: Capybara, Shoulda, RSpec, Cucumber, Mocha, Chai, Jasmine, Protractor... But would also love to learn new testing tools.
 - Test drove every single app during the 12 week Makers Academy course.
-- See the tests for my final project here!
+- [See the tests for my final project here!](https://github.com/DanBlakeman/lend_and_tend/tree/development/spec)
 
 ### Software Craftsmanship
 
 Each line of code we create is a legacy! Not just within the product, but of our time on earth! I'd like to be known for creating clean, simple to read, easily extended, beautiful code - that can be used to deliver real world value.
 
-- Keen to learn new languages, frameworks and tools. Technologies i'm already comfortable with are: Ruby, Javascript, HTML (HAML), CSS (SASS), jQuery, Unix, AWS, Heroku, Sinatra, Rails, Node.js, Express.js, Angular.js, PostgreSQL, MongoDB, Git, API development.  [See examples on my GitHub profile](https://github.com/DanBlakeman)
-- To keep the quality high I have focussed on: TDD, MVC, RESTful practices, SOLID principles, OOD, XP principles such as pair programming, version control and continuous integration.
+- Keen to learn new languages, frameworks and tools. Technologies i'm already comfortable with are: Ruby, Javascript, HTML (HAML), CSS (SASS), jQuery, Unix, AWS, Heroku, Sinatra, Rails, Node.js, Express.js, Angular.js, PostgreSQL, MongoDB, Git, API development.  [See examples on my GitHub profile.](https://github.com/DanBlakeman)
+- To keep the quality high I have focussed on: MVC, RESTful practices, version control, SOLID principles, OOD, XP principles such as TDD, pair programming and continuous integration.
 
 
 
@@ -78,11 +78,11 @@ Part way through Makers Acadmey i was interviewed by NY based CourseReport.com: 
 
 ## Previous Roles
 
-### New Media Specialist at KVH Media Group
-#### 06/2011 - 02/2015
----
-###Online Marketing Consultant at Vinceremos Organic Wines
-####03/2011 - 06/2011
+#### New Media Specialist at KVH Media Group
+##### 06/2011 - 02/2015
+
+####Online Marketing Consultant at Vinceremos Organic Wines
+#####03/2011 - 06/2011
 
 ## A little bit of personality:
 
@@ -100,6 +100,8 @@ surf trip each summer.
 ## Contact me
 
 GitHubDan@gmail.com
+
 [Linkedin](https://www.linkedin.com/profile/view?id=239839754)
+
 [Twitter](https://twitter.com/grok_with_dan)
 
