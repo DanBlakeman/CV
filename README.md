@@ -101,7 +101,7 @@ surf trip each summer.
 
 GitHubDan@gmail.com
 
-[Linkedin](https://www.linkedin.com/profile/view?id=239839754)
+[Linkedin](https://uk.linkedin.com/pub/dan-blakeman/68/3a4/1a2)
 
 [Twitter](https://twitter.com/grok_with_dan)
 
