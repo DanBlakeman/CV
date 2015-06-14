@@ -92,8 +92,11 @@ surf trip each summer.
 - Previously selected for the highly competitive Leonardo da Vinci programme - and given EU funding to work in Prague helping to make a charity's presence felt online.
 - I am fascinated by startups,team culture and leadership and read a lot around these topics in my spare time.
 - Currently reading:
-  - Scrum - The Art Of Doing Twice The Work In Half The Time.
+  - Apprenticeship Patterns - Guidance for the Aspiring Software Craftsman
   - Clean Code - A Handbook of Agile Software Craftsmanship
+
+- Just finished reading:
+  - Scrum - The Art Of Doing Twice The Work In Half The Time.
 
 
 
